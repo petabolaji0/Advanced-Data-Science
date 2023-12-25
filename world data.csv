@@ -1,0 +1,55 @@
+Country Name,Country Code,Series Name,2010,2012,2014,2016,2018,2020
+Australia,AUS,"Adjusted net enrollment rate, primary (% of primary school age children)",97.10396,97.98651,97.13516,96.7724,97.10396,97.545235
+Australia,AUS,Adolescents out of school (% of lower secondary school age),0.209859999,0.209859999,0.01699,0.04298,0.212980002,0.566489995
+Australia,AUS,Children out of school (% of primary school age),0.323500007,2.304460049,0.071960002,0.00778,0.191650003,0.580850005
+Australia,AUS,"Children out of school, primary",6179,45429,1480,168,4291,13192
+Australia,AUS,"School enrollment, preprimary (% gross)",78.5485611,107.5955963,113.6254272,166.9930573,165.6936035,160.214386
+Australia,AUS,"School enrollment, primary (% gross)",105.4885025,105.6697235,105.4616013,101.180687,100.3987122,99.90110779
+Australia,AUS,"School enrollment, secondary (% gross)",143.0635579,136.7981415,143.0635579,155.5943909,136.105545,137.4907379
+Australia,AUS,"School enrollment, tertiary (% gross)",111.0480296,111.0480296,111.0480296,119.6827774,103.3220901,110.1392212
+Australia,AUS,"Educational attainment, at least Bachelor's or equivalent, total (%) (cumulative)",31.35442019,31.35442019,28.61512947,30.02980995,31.74933052,35.0234108
+Belgium,BEL,"Adjusted net enrollment rate, primary (% of primary school age children)",97.52697,97.99151,97.97358,98.66219,98.0385625,98.16646063
+Belgium,BEL,Adolescents out of school (% of lower secondary school age),1.280609965,1.735890031,1.613669991,1.676920056,0.897210002,0.96351999
+Belgium,BEL,Children out of school (% of primary school age),1.295420051,1.877560019,1.831069946,1.919039965,1.338359952,1.229269981
+Belgium,BEL,"Children out of school, primary",9272,13766,13738,14994,10723,9921
+Belgium,BEL,"School enrollment, preprimary (% gross)",119.3752289,120.0851212,118.2440872,116.0955887,114.0356598,112.4309006
+Belgium,BEL,"School enrollment, primary (% gross)",102.2368088,101.5203629,103.1048737,102.0558624,102.5003662,102.06427
+Belgium,BEL,"School enrollment, secondary (% gross)",160.6604767,160.1105347,162.4219818,160.68927,156.5097656,151.7275085
+Belgium,BEL,"School enrollment, tertiary (% gross)",66.85788727,69.74906158,74.03972626,77.24350739,79.12374878,79.49960327
+Belgium,BEL,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",31.71299076,31.93997622,31.25901985,32.16696167,31.71299076,31.75838785
+Canada,CAN,"Adjusted net enrollment rate, primary (% of primary school age children)",99.59955667,99.45167,99.39113,99.95587,99.59955667,99.59955667
+Canada,CAN,Adolescents out of school (% of lower secondary school age),0.03614,0.05108,0.021199999,0.03614,0.03614,0.031159999
+Canada,CAN,Children out of school (% of primary school age),1.150735998,0.559189975,0.500949979,1.452970028,0.978990018,2.26157999
+Canada,CAN,"Children out of school, primary",27552.8,12275,11324,34190,23797,56178
+Canada,CAN,"School enrollment, preprimary (% gross)",48.8423748,48.8423748,48.8423748,48.8423748,48.76470947,48.92004013
+Canada,CAN,"School enrollment, primary (% gross)",99.12026978,99.44071198,99.49904633,98.54702759,99.02101898,97.73841858
+Canada,CAN,"School enrollment, secondary (% gross)",102.4962234,110.9018021,111.8559113,111.7702866,111.4529724,110.079071
+Canada,CAN,"School enrollment, tertiary (% gross)",61.87625885,63.61875916,67.2278595,69.50685883,69.57759857,74.15714264
+Canada,CAN,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",25.75444031,25.75444031,25.75444031,25.75444031,25.75444031,25.75444031
+Norway,NOR,"Adjusted net enrollment rate, primary (% of primary school age children)",99.08012,99.68671,99.82749,99.8062,99.60013,62.67728516
+Norway,NOR,Adolescents out of school (% of lower secondary school age),0.00052,0.757600009,0.197310001,0.318850011,0.359039992,0.47507
+Norway,NOR,Children out of school (% of primary school age),0.252790004,0.270639986,0.417670012,0.690800011,0.752420008,1.033139944
+Norway,NOR,"Children out of school, primary",1076,1150,1788,3052,3394,4662
+Norway,NOR,"School enrollment, preprimary (% gross)",98.81916046,99.05267334,97.88935089,95.89945221,96.00299072,96.33905029
+Norway,NOR,"School enrollment, primary (% gross)",99.62551117,99.63052368,99.49215698,99.22612762,99.17442322,98.88574982
+Norway,NOR,"School enrollment, secondary (% gross)",112.978569,112.1765366,113.4798889,116.6455078,117.7147064,119.9415436
+Norway,NOR,"School enrollment, tertiary (% gross)",72.11708069,71.70475769,78.23973846,82.0374527,85.38835144,87.16853333
+Norway,NOR,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",26.25970014,25.72669029,25.72669029,27.32571983,26.25970014,26.25970014
+United Kingdom,GBR,"Adjusted net enrollment rate, primary (% of primary school age children)",98.19652,98.36969,99.89948,99.65208,99.0294425,99.23767313
+United Kingdom,GBR,Adolescents out of school (% of lower secondary school age),0.01206,5.152349949,1.311830044,2.158746664,2.354749918,3.07791996
+United Kingdom,GBR,Children out of school (% of primary school age),0.558160007,1.889760017,1.780220032,2.154949903,2.366379976,3.025089979
+United Kingdom,GBR,"Children out of school, primary",23356,80776,80363,102263,116634,150458
+United Kingdom,GBR,"School enrollment, preprimary (% gross)",81.7593689,83.96948242,87.25021362,110.3365326,107.1398468,105.7628098
+United Kingdom,GBR,"School enrollment, primary (% gross)",105.6733932,105.8298111,99.89482117,99.49765015,99.2638092,98.59165955
+United Kingdom,GBR,"School enrollment, secondary (% gross)",103.4549866,92.3830719,128.2863312,108.0414632,120.1381836,114.1696167
+United Kingdom,GBR,"School enrollment, tertiary (% gross)",59.85358047,59.23820114,56.99188995,58.59590149,61.67129898,69.98657227
+United Kingdom,GBR,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",29.33262062,29.33262062,29.33262062,33.3045454,33.3045454,37.27647018
+United States,USA,"Adjusted net enrollment rate, primary (% of primary school age children)",97.63436,97.26517,97.97434,99.64003,98.128475,98.25200375
+United States,USA,Adolescents out of school (% of lower secondary school age),0.172670007,0.172670007,0.172670007,0.172670007,0.172670007,0.172670007
+United States,USA,Children out of school (% of primary school age),0.6592337,0.637977772,0.979753325,0.359970003,0.574209988,2.005079985
+United States,USA,"Children out of school, primary",161799.6667,156733,239816,88850,141533,489065
+United States,USA,"School enrollment, preprimary (% gross)",69.79542828,70.31547928,64.78294373,71.9373703,72.1459198,72.39568329
+United States,USA,"School enrollment, primary (% gross)",100.7356124,100.6496487,99.67337799,101.3628616,101.2565613,100.3057938
+United States,USA,"School enrollment, secondary (% gross)",98.46000338,98.8699665,96.92453766,98.76992798,99.27558136,100.509819
+United States,USA,"School enrollment, tertiary (% gross)",88.52332258,88.33218956,88.6268692,88.83505249,88.29917908,87.56765747
+United States,USA,"Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)",34.47806168,34.47806168,31.9557991,33.43968964,34.99246979,37.52428818
